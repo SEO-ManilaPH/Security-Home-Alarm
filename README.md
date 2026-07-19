@@ -3,6 +3,16 @@ Expert guides on home security systems, CCTV, alarm installation, smart security
 
 # Home Security Alarm Systems NZ | Security Co
 
+Official Website
+
+👉 https://securityco.co.nz/
+
+Security Co provides professionally installed home security systems, CCTV, monitored alarms, and smart security solutions across Auckland and New Zealand.
+
+Whether you're looking for home alarm installation, monitored alarm systems, wireless security, or CCTV protection, Security Co helps homeowners protect what matters most.
+
+# Home Security Alarm Systems NZ | Security Co
+
 Looking for reliable **home security systems in New Zealand**? This repository provides educational resources about residential alarm systems, smart home security, monitored alarms, and burglary prevention to help homeowners make informed decisions when choosing the right protection for their property.
 
 Security Co is a trusted provider of professionally installed home security systems, alarm monitoring, CCTV, and smart security solutions throughout Auckland and New Zealand.
