@@ -171,3 +171,16 @@ This repository is maintained for educational and informational purposes. Produc
 Official Website:
 
 https://securityco.co.nz/
+
+## Security Resources
+
+Browse our home security guides:
+
+- [Wireless House Alarm Installation](wireless-house-alarm-installation.md)
+- Monitored Home Alarm Systems *(coming soon)*
+- Smart Home Alarm Systems *(coming soon)*
+- Alarm Upgrades *(coming soon)*
+- Pet Friendly Alarm Systems *(coming soon)*
+- Home Alarm Monitoring *(coming soon)*
+- Home Intrusion Alarm Systems *(coming soon)*
+- Replace Old Alarm Systems *(coming soon)*
