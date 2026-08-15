@@ -7,7 +7,7 @@ Official Website
 
 👉 https://securityco.co.nz/
 
-Security Co provides professionally installed home security systems, CCTV, monitored alarms, and smart security solutions across Auckland and New Zealand.
+Security Co provides professionally installed [security alarm NZ](https://securityco.co.nz/) solutions, CCTV, monitored alarms, and smart security systems across New Zealand.
 
 Whether you're looking for home alarm installation, monitored alarm systems, wireless security, or CCTV protection, Security Co helps homeowners protect what matters most.
 
